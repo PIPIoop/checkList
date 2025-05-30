@@ -18,3 +18,13 @@
        
 ![image](https://github.com/user-attachments/assets/0573aae2-b675-472c-8174-9d861f36f3b9)
 ![image](https://github.com/user-attachments/assets/98623d85-309b-4ccd-8bb5-0450b6750a5b)
+
+
+Итак окончательная версия и функционал:
+Реализован красивый дизайн. А также существует функционал добавления, редактирования задач с их приоритетом от 1 до 3, от низкого до высокого приоритета соответственно. Также реализованна сортировка по приоритету, при появлении большого количества задач работает скрол вниз и вверх. Помиомо этого также работает свайп для удаление задачи. Реализованно уведомления о произошедшем на экране.
+Пустой список
+![image](https://github.com/user-attachments/assets/1865d771-15ad-4840-98bd-1624539f0186)
+![image](https://github.com/user-attachments/assets/aa921cc2-0944-4ea3-9351-36b9b77e2a2b)
+![image](https://github.com/user-attachments/assets/6d02f24c-5990-4116-a4f4-79bbb42d32c9)
+![image](https://github.com/user-attachments/assets/f4c99fcd-6b3a-42c3-b9b9-9b339a52d395)
+![image](https://github.com/user-attachments/assets/a80a6870-8566-4974-b03a-1c4f65b0e4d4)
